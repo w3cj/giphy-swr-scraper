@@ -1,0 +1,4496 @@
+{
+  "count": null,
+  "next": "https://giphy.com/api/v1/channels/2056/gifs/?is=1&json=true&page=7",
+  "previous": "https://giphy.com/api/v1/channels/2056/gifs/?is=1&json=true&page=5",
+  "results": [{
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert win sign language deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w.mp4",
+        "webp_size": 192412,
+        "mp4_size": 27311,
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w.gif",
+        "size": 491721,
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w_d.gif",
+        "width": 200,
+        "size": 2601712,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200_s.gif",
+        "width": 200,
+        "height": 357
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w_d.webp",
+        "webp_size": 21442,
+        "size": 72992
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy.gif",
+        "width": 480,
+        "size": 2601712,
+        "height": 269
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy.webp",
+        "height": 269,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy.mp4",
+        "frames": 56,
+        "size": 2601712
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy_s.gif",
+        "width": 480,
+        "height": 269
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100w.mp4",
+        "webp_size": 82528,
+        "mp4_size": 11377,
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100w.gif",
+        "size": 142428,
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200_d.gif",
+        "height": 200,
+        "width": 357,
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200_d.webp",
+        "webp_size": 45998,
+        "size": 215675
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy.gif",
+        "width": 480,
+        "size": 2601712,
+        "frames": 56,
+        "height": 269
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy.gif",
+        "width": 480,
+        "size": 2601712,
+        "height": 269
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200.gif",
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200.webp",
+        "height": 200,
+        "width": 357,
+        "mp4": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200.mp4",
+        "webp_size": 408448,
+        "size": 1529800
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100.mp4",
+        "webp_size": 166900,
+        "mp4_size": 23169,
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100.gif",
+        "size": 424368,
+        "webp": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOtpHNo2tJcUA7u/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 140
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOtpHNo2tJcUA7u",
+    "bitly_url": "http://gph.is/2jthAup",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-26DOtpHNo2tJcUA7u",
+    "update_datetime": "2017-05-25T00:01:52+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:18:03+00:00",
+    "embed_url": "https://giphy.com/embed/26DOtpHNo2tJcUA7u",
+    "tags": ["win", "sign language", "sign with robert", "deaf", "american sign language", "swr"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media3.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-26DOtpHNo2tJcUA7u",
+    "slug": "signwithrobert-sign-with-robert-26DOtpHNo2tJcUA7u",
+    "source_image_url": "/tmp/26DOtpHNo2tJcUA7u.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nwin\nsign with robert\nsign language\ndeaf\namerican sign language\nswr",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-26DOtpHNo2tJcUA7u",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "0761dc3ec04bf0295875924dae853f5e",
+    "source_caption": "",
+    "index_id": 32119577,
+    "import_datetime": "2017-01-11T05:17:53+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert win sign language asl deaf",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w.mp4",
+        "webp_size": 117284,
+        "mp4_size": 20996,
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w.gif",
+        "size": 363572,
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w_d.gif",
+        "width": 200,
+        "size": 1845286,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200_s.gif",
+        "width": 200,
+        "height": 357
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w_d.webp",
+        "webp_size": 17558,
+        "size": 73525
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy.gif",
+        "width": 480,
+        "size": 1845286,
+        "height": 269
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy.gif",
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy.webp",
+        "height": 269,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy.mp4",
+        "frames": 41,
+        "size": 1845286
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy_s.gif",
+        "width": 480,
+        "height": 269
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100w.mp4",
+        "webp_size": 51878,
+        "mp4_size": 8449,
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100w.gif",
+        "size": 105969,
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200_d.gif",
+        "height": 200,
+        "width": 357,
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200_d.webp",
+        "webp_size": 37216,
+        "size": 213979
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy.gif",
+        "width": 480,
+        "size": 1845286,
+        "frames": 41,
+        "height": 269
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy.gif",
+        "width": 480,
+        "size": 1845286,
+        "height": 269
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200.gif",
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200.webp",
+        "height": 200,
+        "width": 357,
+        "mp4": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200.mp4",
+        "webp_size": 249680,
+        "size": 1107679
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100.mp4",
+        "webp_size": 103494,
+        "mp4_size": 17899,
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100.gif",
+        "size": 311619,
+        "webp": "https://media.giphy.com/media/l4q8791n5riDfNKEg/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l4q8791n5riDfNKEg/giphy-downsized_s.gif",
+        "width": 480,
+        "height": 269
+      }
+    },
+    "is_hidden": false,
+    "id": "l4q8791n5riDfNKEg",
+    "bitly_url": "http://gph.is/2j6fQuJ",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-l4q8791n5riDfNKEg",
+    "update_datetime": "2017-05-25T00:01:52+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:17:54+00:00",
+    "embed_url": "https://giphy.com/embed/l4q8791n5riDfNKEg",
+    "tags": ["win", "sign language", "sign with robert", "asl", "deaf", "american sign language"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media1.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-l4q8791n5riDfNKEg",
+    "slug": "signwithrobert-sign-with-robert-l4q8791n5riDfNKEg",
+    "source_image_url": "/tmp/l4q8791n5riDfNKEg.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nwin\nsign with robert\nsign language\nasl\ndeaf\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-l4q8791n5riDfNKEg",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "594e73170100f74c97634fa5ed37579d",
+    "source_caption": "",
+    "index_id": 32119571,
+    "import_datetime": "2017-01-11T05:17:46+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sports sign language deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w.mp4",
+        "webp_size": 139854,
+        "mp4_size": 21713,
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w.gif",
+        "size": 398840,
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w_d.gif",
+        "width": 200,
+        "size": 1994358,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200_s.gif",
+        "width": 200,
+        "height": 357
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w_d.webp",
+        "webp_size": 18706,
+        "size": 73489
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy.gif",
+        "width": 480,
+        "size": 1994358,
+        "height": 269
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy.webp",
+        "height": 269,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy.mp4",
+        "frames": 47,
+        "size": 1994358
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy_s.gif",
+        "width": 480,
+        "height": 269
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100w.mp4",
+        "webp_size": 64446,
+        "mp4_size": 8400,
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100w.gif",
+        "size": 117097,
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200_d.gif",
+        "height": 200,
+        "width": 357,
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200_d.webp",
+        "webp_size": 41206,
+        "size": 213723
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy.gif",
+        "width": 480,
+        "size": 1994358,
+        "frames": 47,
+        "height": 269
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy.gif",
+        "width": 480,
+        "size": 1994358,
+        "height": 269
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200.gif",
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200.webp",
+        "height": 200,
+        "width": 357,
+        "mp4": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200.mp4",
+        "webp_size": 303608,
+        "size": 1214665
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100.mp4",
+        "webp_size": 126430,
+        "mp4_size": 18520,
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100.gif",
+        "size": 345314,
+        "webp": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOyFBB6sZfRfiak/giphy-downsized_s.gif",
+        "width": 480,
+        "height": 269
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOyFBB6sZfRfiak",
+    "bitly_url": "http://gph.is/2jt3Fom",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-26DOyFBB6sZfRfiak",
+    "update_datetime": "2017-05-25T00:01:52+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:17:49+00:00",
+    "embed_url": "https://giphy.com/embed/26DOyFBB6sZfRfiak",
+    "tags": ["sports", "sign language", "sign with robert", "deaf", "american sign language", "swr"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media0.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-26DOyFBB6sZfRfiak",
+    "slug": "signwithrobert-sign-with-robert-26DOyFBB6sZfRfiak",
+    "source_image_url": "/tmp/26DOyFBB6sZfRfiak.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsports\nsign with robert\nsign language\ndeaf\namerican sign language\nswr",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-26DOyFBB6sZfRfiak",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "4cc2ef1f5408a2cd19ce44f791052125",
+    "source_caption": "",
+    "index_id": 32119568,
+    "import_datetime": "2017-01-11T05:17:39+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w.mp4",
+        "webp_size": 412396,
+        "mp4_size": 72803,
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w.gif",
+        "size": 1089810,
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w_d.gif",
+        "width": 200,
+        "size": 6675158,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w_d.webp",
+        "webp_size": 25300,
+        "size": 79717
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy.gif",
+        "width": 480,
+        "size": 6675158,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy.mp4",
+        "frames": 92,
+        "size": 6675158
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100w.mp4",
+        "webp_size": 157556,
+        "mp4_size": 26397,
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100w.gif",
+        "size": 308583,
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200_d.webp",
+        "webp_size": 57742,
+        "size": 246591
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy.gif",
+        "width": 480,
+        "size": 6675158,
+        "frames": 92,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy-downsized-medium.gif",
+        "width": 384,
+        "size": 3576711,
+        "height": 214
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200.gif",
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200.mp4",
+        "webp_size": 935692,
+        "size": 3555055
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100.mp4",
+        "webp_size": 362910,
+        "mp4_size": 58387,
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100.gif",
+        "size": 945198,
+        "webp": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOHoCf8fnMrGDUQ/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 139
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOHoCf8fnMrGDUQ",
+    "bitly_url": "http://gph.is/2jt48XF",
+    "get_absolute_url": "/gifs/signwithrobert-26DOHoCf8fnMrGDUQ",
+    "update_datetime": "2017-05-25T01:18:07+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:13:31+00:00",
+    "embed_url": "https://giphy.com/embed/26DOHoCf8fnMrGDUQ",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "determined"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media1.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-26DOHoCf8fnMrGDUQ",
+    "slug": "signwithrobert-26DOHoCf8fnMrGDUQ",
+    "source_image_url": "/tmp/26DOHoCf8fnMrGDUQ.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\ndetermined",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-26DOHoCf8fnMrGDUQ",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "7e9cc3427035f7312d300145a0525808",
+    "source_caption": "",
+    "index_id": 32119451,
+    "import_datetime": "2017-01-11T05:13:13+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w.mp4",
+        "webp_size": 108190,
+        "mp4_size": 23444,
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w.gif",
+        "size": 384851,
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w_d.gif",
+        "width": 200,
+        "size": 2294680,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w_d.webp",
+        "webp_size": 20982,
+        "size": 80568
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy.gif",
+        "width": 480,
+        "size": 2294680,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy.gif",
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy.mp4",
+        "frames": 31,
+        "size": 2294680
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100w.mp4",
+        "webp_size": 45440,
+        "mp4_size": 9382,
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100w.gif",
+        "size": 109415,
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200_d.webp",
+        "webp_size": 46692,
+        "size": 247480
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy.gif",
+        "width": 480,
+        "size": 2294680,
+        "frames": 31,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy.gif",
+        "width": 480,
+        "size": 2294680,
+        "height": 268
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200.gif",
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200.mp4",
+        "webp_size": 239390,
+        "size": 1234313
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100.mp4",
+        "webp_size": 96008,
+        "mp4_size": 19597,
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100.gif",
+        "size": 329544,
+        "webp": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l4q7Yw5UC0d44yLOU/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 139
+      }
+    },
+    "is_hidden": false,
+    "id": "l4q7Yw5UC0d44yLOU",
+    "bitly_url": "http://gph.is/2jtgO0t",
+    "get_absolute_url": "/gifs/signwithrobert-l4q7Yw5UC0d44yLOU",
+    "update_datetime": "2017-05-25T01:18:07+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:12:58+00:00",
+    "embed_url": "https://giphy.com/embed/l4q7Yw5UC0d44yLOU",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "empty"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media2.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-l4q7Yw5UC0d44yLOU",
+    "slug": "signwithrobert-l4q7Yw5UC0d44yLOU",
+    "source_image_url": "/tmp/l4q7Yw5UC0d44yLOU.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\nempty\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-l4q7Yw5UC0d44yLOU",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "5f562122efd57be6bf124a93960cf183",
+    "source_caption": "",
+    "index_id": 32119428,
+    "import_datetime": "2017-01-11T05:12:50+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w.mp4",
+        "webp_size": 125892,
+        "mp4_size": 31539,
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w.gif",
+        "size": 465235,
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w_d.gif",
+        "width": 200,
+        "size": 2754086,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w_d.webp",
+        "webp_size": 20460,
+        "size": 80047
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy.gif",
+        "width": 480,
+        "size": 2754086,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy.mp4",
+        "frames": 37,
+        "size": 2754086
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100w.mp4",
+        "webp_size": 52310,
+        "mp4_size": 12050,
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100w.gif",
+        "size": 134367,
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200_d.webp",
+        "webp_size": 44952,
+        "size": 247236
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy.gif",
+        "width": 480,
+        "size": 2754086,
+        "frames": 37,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy.gif",
+        "width": 480,
+        "size": 2754086,
+        "height": 268
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200.gif",
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200.mp4",
+        "webp_size": 282250,
+        "size": 1474810
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100.mp4",
+        "webp_size": 113246,
+        "mp4_size": 26130,
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100.gif",
+        "size": 395989,
+        "webp": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOFO2jevGmx7y9O/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 139
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOFO2jevGmx7y9O",
+    "bitly_url": "http://gph.is/2j6aCPw",
+    "get_absolute_url": "/gifs/signwithrobert-26DOFO2jevGmx7y9O",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:12:53+00:00",
+    "embed_url": "https://giphy.com/embed/26DOFO2jevGmx7y9O",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "distracted"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media2.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-26DOFO2jevGmx7y9O",
+    "slug": "signwithrobert-26DOFO2jevGmx7y9O",
+    "source_image_url": "/tmp/26DOFO2jevGmx7y9O.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\ndistracted",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-26DOFO2jevGmx7y9O",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "2c697437a95d74998c78cd73340d6cdc",
+    "source_caption": "",
+    "index_id": 32119425,
+    "import_datetime": "2017-01-11T05:12:43+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert cool sign language asl deaf",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w.mp4",
+        "webp_size": 142646,
+        "mp4_size": 26442,
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w.gif",
+        "size": 556623,
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w_d.gif",
+        "width": 200,
+        "size": 3350619,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w_d.webp",
+        "webp_size": 18666,
+        "size": 79379
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy.gif",
+        "width": 480,
+        "size": 3350619,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy.gif",
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy.mp4",
+        "frames": 46,
+        "size": 3350619
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100w.mp4",
+        "webp_size": 63086,
+        "mp4_size": 11183,
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100w.gif",
+        "size": 157289,
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200_d.webp",
+        "webp_size": 41636,
+        "size": 246401
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy.gif",
+        "width": 480,
+        "size": 3350619,
+        "frames": 46,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy.gif",
+        "width": 480,
+        "size": 3350619,
+        "height": 265
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200.gif",
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200.mp4",
+        "webp_size": 317582,
+        "size": 1825018
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100.mp4",
+        "webp_size": 133318,
+        "mp4_size": 22975,
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100.gif",
+        "size": 488620,
+        "webp": "https://media.giphy.com/media/l4q8is5h72szZ3wha/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l4q8is5h72szZ3wha/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "l4q8is5h72szZ3wha",
+    "bitly_url": "http://gph.is/2jsZecS",
+    "get_absolute_url": "/gifs/signwithrobert-l4q8is5h72szZ3wha",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-11T05:11:46+00:00",
+    "embed_url": "https://giphy.com/embed/l4q8is5h72szZ3wha",
+    "tags": ["cool", "sign language", "asl", "deaf", "american sign language"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media1.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-l4q8is5h72szZ3wha",
+    "slug": "signwithrobert-l4q8is5h72szZ3wha",
+    "source_image_url": "/tmp/l4q8is5h72szZ3wha.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ncool\nsign language\ndeaf\nasl\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-l4q8is5h72szZ3wha",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "16f3e65736610c51af33e4e8a88de9ef",
+    "source_caption": "",
+    "index_id": 32119390,
+    "import_datetime": "2017-01-11T05:11:38+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language apathetic",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w.mp4",
+        "webp_size": 37116,
+        "mp4_size": 10332,
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w.gif",
+        "size": 136301,
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w_d.gif",
+        "width": 200,
+        "size": 800021,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w_d.webp",
+        "webp_size": 20598,
+        "size": 77486
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy.gif",
+        "width": 480,
+        "size": 800021,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy.mp4",
+        "frames": 11,
+        "size": 800021
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100w.mp4",
+        "webp_size": 15812,
+        "mp4_size": 5058,
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100w.gif",
+        "size": 39510,
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200_d.webp",
+        "webp_size": 45792,
+        "size": 241476
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy.gif",
+        "width": 480,
+        "size": 800021,
+        "frames": 11,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy.gif",
+        "width": 480,
+        "size": 800021,
+        "height": 268
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200.gif",
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200.mp4",
+        "webp_size": 83948,
+        "size": 429767
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100.mp4",
+        "webp_size": 33750,
+        "mp4_size": 9509,
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100.gif",
+        "size": 116204,
+        "webp": "https://media.giphy.com/media/26DOwQd2ur5crwob6/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOwQd2ur5crwob6/giphy-downsized_s.gif",
+        "width": 480,
+        "height": 268
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOwQd2ur5crwob6",
+    "bitly_url": "http://gph.is/2j67N0M",
+    "get_absolute_url": "/gifs/26DOwQd2ur5crwob6",
+    "update_datetime": "2017-02-16T14:07:20+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:10:23+00:00",
+    "embed_url": "https://giphy.com/embed/26DOwQd2ur5crwob6",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "apathetic"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOwQd2ur5crwob6",
+    "slug": "26DOwQd2ur5crwob6",
+    "source_image_url": "/tmp/26DOwQd2ur5crwob6.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\napathetic",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOwQd2ur5crwob6",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "7111e0f23a048ae6e661630148c32099",
+    "source_caption": "",
+    "index_id": 32119350,
+    "import_datetime": "2017-01-11T05:10:19+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language foolish",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w.mp4",
+        "webp_size": 171204,
+        "mp4_size": 33659,
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w.gif",
+        "size": 587456,
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w_d.gif",
+        "width": 200,
+        "size": 3493228,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w_d.webp",
+        "webp_size": 20850,
+        "size": 80495
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy.gif",
+        "width": 480,
+        "size": 3493228,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy.mp4",
+        "frames": 48,
+        "size": 3493228
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100w.mp4",
+        "webp_size": 70670,
+        "mp4_size": 12750,
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100w.gif",
+        "size": 167058,
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200_d.webp",
+        "webp_size": 48270,
+        "size": 247181
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy.gif",
+        "width": 480,
+        "size": 3493228,
+        "frames": 48,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy.gif",
+        "width": 480,
+        "size": 3493228,
+        "height": 268
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200.gif",
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200.mp4",
+        "webp_size": 397808,
+        "size": 1889394
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100.mp4",
+        "webp_size": 156060,
+        "mp4_size": 29070,
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100.gif",
+        "size": 504122,
+        "webp": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOp3wIryqgrE6ZO/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 139
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOp3wIryqgrE6ZO",
+    "bitly_url": "http://gph.is/2jtgkYd",
+    "get_absolute_url": "/gifs/26DOp3wIryqgrE6ZO",
+    "update_datetime": "2017-02-16T14:07:49+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:10:24+00:00",
+    "embed_url": "https://giphy.com/embed/26DOp3wIryqgrE6ZO",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "foolish"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOp3wIryqgrE6ZO",
+    "slug": "26DOp3wIryqgrE6ZO",
+    "source_image_url": "/tmp/26DOp3wIryqgrE6ZO.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\nfoolish",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOp3wIryqgrE6ZO",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "6077d2a7dfecd4554423b4bcd25bb15d",
+    "source_caption": "",
+    "index_id": 32119349,
+    "import_datetime": "2017-01-11T05:10:15+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language isolated",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w.mp4",
+        "webp_size": 187274,
+        "mp4_size": 37769,
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w.gif",
+        "size": 677976,
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w_d.gif",
+        "width": 200,
+        "size": 4029048,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w_d.webp",
+        "webp_size": 20566,
+        "size": 80905
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy.gif",
+        "width": 480,
+        "size": 4029048,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy.mp4",
+        "frames": 54,
+        "size": 4029048
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100w.mp4",
+        "webp_size": 79586,
+        "mp4_size": 14803,
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100w.gif",
+        "size": 192302,
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200_d.webp",
+        "webp_size": 46316,
+        "size": 248548
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy.gif",
+        "width": 480,
+        "size": 4029048,
+        "frames": 54,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy.gif",
+        "width": 480,
+        "size": 4029048,
+        "height": 268
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200.gif",
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200.mp4",
+        "webp_size": 420078,
+        "size": 2157583
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100.mp4",
+        "webp_size": 169184,
+        "mp4_size": 31020,
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100.gif",
+        "size": 577074,
+        "webp": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOxOvVSSc1x8HzG/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 139
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOxOvVSSc1x8HzG",
+    "bitly_url": "http://gph.is/2jtejeF",
+    "get_absolute_url": "/gifs/26DOxOvVSSc1x8HzG",
+    "update_datetime": "2017-02-16T14:07:34+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:55+00:00",
+    "embed_url": "https://giphy.com/embed/26DOxOvVSSc1x8HzG",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "isolated"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOxOvVSSc1x8HzG",
+    "slug": "26DOxOvVSSc1x8HzG",
+    "source_image_url": "/tmp/26DOxOvVSSc1x8HzG.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\nisolated",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOxOvVSSc1x8HzG",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "bd631e4f1fce17ee1e59990d5a3ceace",
+    "source_caption": "",
+    "index_id": 32119334,
+    "import_datetime": "2017-01-11T05:09:44+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "shocked sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w.mp4",
+        "webp_size": 164904,
+        "mp4_size": 36116,
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w.gif",
+        "size": 573108,
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w.webp",
+        "height": 112
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w_d.gif",
+        "width": 200,
+        "size": 3404353,
+        "height": 112
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200_s.gif",
+        "width": 200,
+        "height": 358
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w_d.gif",
+        "height": 112,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w_d.webp",
+        "webp_size": 20880,
+        "size": 81108
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/100_s.gif",
+        "width": 179,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy.gif",
+        "width": 480,
+        "size": 3404353,
+        "height": 268
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy.webp",
+        "height": 268,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy.mp4",
+        "frames": 46,
+        "size": 3404353
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy_s.gif",
+        "width": 480,
+        "height": 268
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOManb36ILed0Tm/100w.mp4",
+        "webp_size": 67790,
+        "mp4_size": 13362,
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/100w.gif",
+        "size": 163860,
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200_d.gif",
+        "height": 200,
+        "width": 358,
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/200_d.webp",
+        "webp_size": 46538,
+        "size": 247892
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy.gif",
+        "width": 480,
+        "size": 3404353,
+        "frames": 46,
+        "height": 268
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy.gif",
+        "width": 480,
+        "size": 3404353,
+        "height": 268
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200.gif",
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/200.webp",
+        "height": 200,
+        "width": 358,
+        "mp4": "https://media.giphy.com/media/26DOManb36ILed0Tm/200.mp4",
+        "webp_size": 366584,
+        "size": 1826646
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/200w_s.gif",
+        "width": 200,
+        "height": 112
+      },
+      "fixed_height_small": {
+        "width": 179,
+        "mp4": "https://media.giphy.com/media/26DOManb36ILed0Tm/100.mp4",
+        "webp_size": 147280,
+        "mp4_size": 30594,
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/100.gif",
+        "size": 493551,
+        "webp": "https://media.giphy.com/media/26DOManb36ILed0Tm/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOManb36ILed0Tm/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 139
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOManb36ILed0Tm",
+    "bitly_url": "http://gph.is/2j6l8Gn",
+    "get_absolute_url": "/gifs/26DOManb36ILed0Tm",
+    "update_datetime": "2017-02-16T14:07:31+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:46+00:00",
+    "embed_url": "https://giphy.com/embed/26DOManb36ILed0Tm",
+    "tags": ["shocked", "sign language", "asl", "deaf", "american sign language"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOManb36ILed0Tm",
+    "slug": "26DOManb36ILed0Tm",
+    "source_image_url": "/tmp/26DOManb36ILed0Tm.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nshocked\nsign language\ndeaf\nasl\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOManb36ILed0Tm",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "02647643a5996fccf37920585e6170b9",
+    "source_caption": "",
+    "index_id": 32119329,
+    "import_datetime": "2017-01-11T05:09:38+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language calm",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w.mp4",
+        "webp_size": 66888,
+        "mp4_size": 14271,
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w.gif",
+        "size": 237158,
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w_d.gif",
+        "width": 200,
+        "size": 1442150,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w_d.webp",
+        "webp_size": 19994,
+        "size": 77863
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy.gif",
+        "width": 480,
+        "size": 1442150,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy.gif",
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy.mp4",
+        "frames": 20,
+        "size": 1442150
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100w.mp4",
+        "webp_size": 28466,
+        "mp4_size": 6201,
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100w.gif",
+        "size": 66763,
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200_d.webp",
+        "webp_size": 44772,
+        "size": 248584
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy.gif",
+        "width": 480,
+        "size": 1442150,
+        "frames": 20,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy.gif",
+        "width": 480,
+        "size": 1442150,
+        "height": 265
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200.gif",
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200.mp4",
+        "webp_size": 148592,
+        "size": 790128
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100.mp4",
+        "webp_size": 60230,
+        "mp4_size": 12428,
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100.gif",
+        "size": 208742,
+        "webp": "https://media.giphy.com/media/l4q84121hCl0QAKoo/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l4q84121hCl0QAKoo/giphy-downsized_s.gif",
+        "width": 480,
+        "height": 265
+      }
+    },
+    "is_hidden": false,
+    "id": "l4q84121hCl0QAKoo",
+    "bitly_url": "http://gph.is/2jt1jpa",
+    "get_absolute_url": "/gifs/l4q84121hCl0QAKoo",
+    "update_datetime": "2017-02-16T14:07:27+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:36+00:00",
+    "embed_url": "https://giphy.com/embed/l4q84121hCl0QAKoo",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "calm"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/l4q84121hCl0QAKoo",
+    "slug": "l4q84121hCl0QAKoo",
+    "source_image_url": "/tmp/l4q84121hCl0QAKoo.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\ncalm\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/l4q84121hCl0QAKoo",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "286cd742be8b758b40c5343e1accaebf",
+    "source_caption": "",
+    "index_id": 32119326,
+    "import_datetime": "2017-01-11T05:09:32+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language clever",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w.mp4",
+        "webp_size": 142366,
+        "mp4_size": 28684,
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w.gif",
+        "size": 523280,
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w_d.gif",
+        "width": 200,
+        "size": 3215399,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w_d.webp",
+        "webp_size": 18378,
+        "size": 76950
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy.gif",
+        "width": 480,
+        "size": 3215399,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy.mp4",
+        "frames": 45,
+        "size": 3215399
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100w.mp4",
+        "webp_size": 61172,
+        "mp4_size": 11347,
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100w.gif",
+        "size": 148609,
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200_d.webp",
+        "webp_size": 41266,
+        "size": 243010
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy.gif",
+        "width": 480,
+        "size": 3215399,
+        "frames": 45,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy.gif",
+        "width": 480,
+        "size": 3215399,
+        "height": 265
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200.gif",
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200.mp4",
+        "webp_size": 319920,
+        "size": 1749149
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100.mp4",
+        "webp_size": 128118,
+        "mp4_size": 24613,
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100.gif",
+        "size": 463338,
+        "webp": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOuOs0sLbj5EKT6/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOuOs0sLbj5EKT6",
+    "bitly_url": "http://gph.is/2j6aTSD",
+    "get_absolute_url": "/gifs/26DOuOs0sLbj5EKT6",
+    "update_datetime": "2017-02-16T14:07:17+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:31+00:00",
+    "embed_url": "https://giphy.com/embed/26DOuOs0sLbj5EKT6",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "clever"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOuOs0sLbj5EKT6",
+    "slug": "26DOuOs0sLbj5EKT6",
+    "source_image_url": "/tmp/26DOuOs0sLbj5EKT6.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\nclever",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOuOs0sLbj5EKT6",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "f273e76a33ec58b1fb41e634fba594eb",
+    "source_caption": "",
+    "index_id": 32119323,
+    "import_datetime": "2017-01-11T05:09:23+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language fascinated",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w.mp4",
+        "webp_size": 51424,
+        "mp4_size": 10807,
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w.gif",
+        "size": 186704,
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w_d.gif",
+        "width": 200,
+        "size": 1138089,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w_d.webp",
+        "webp_size": 19160,
+        "size": 75450
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy.gif",
+        "width": 480,
+        "size": 1138089,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy.gif",
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy.mp4",
+        "frames": 16,
+        "size": 1138089
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100w.mp4",
+        "webp_size": 21308,
+        "mp4_size": 5108,
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100w.gif",
+        "size": 53794,
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200_d.webp",
+        "webp_size": 42396,
+        "size": 242712
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy.gif",
+        "width": 480,
+        "size": 1138089,
+        "frames": 16,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy.gif",
+        "width": 480,
+        "size": 1138089,
+        "height": 265
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200.gif",
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200.mp4",
+        "webp_size": 113796,
+        "size": 620078
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100.mp4",
+        "webp_size": 46188,
+        "mp4_size": 9519,
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100.gif",
+        "size": 165212,
+        "webp": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l4q8325xvpnOsqaZy/giphy-downsized_s.gif",
+        "width": 480,
+        "height": 265
+      }
+    },
+    "is_hidden": false,
+    "id": "l4q8325xvpnOsqaZy",
+    "bitly_url": "http://gph.is/2j6iYXr",
+    "get_absolute_url": "/gifs/l4q8325xvpnOsqaZy",
+    "update_datetime": "2017-02-16T14:07:24+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:23+00:00",
+    "embed_url": "https://giphy.com/embed/l4q8325xvpnOsqaZy",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "fascinated"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/l4q8325xvpnOsqaZy",
+    "slug": "l4q8325xvpnOsqaZy",
+    "source_image_url": "/tmp/l4q8325xvpnOsqaZy.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\nfascinated",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/l4q8325xvpnOsqaZy",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "37338375289e7f5cb138eaed215aa5a8",
+    "source_caption": "",
+    "index_id": 32119319,
+    "import_datetime": "2017-01-11T05:09:19+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language exhausted",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w.mp4",
+        "webp_size": 287812,
+        "mp4_size": 53141,
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w.gif",
+        "size": 834077,
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w_d.gif",
+        "width": 200,
+        "size": 5136480,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w_d.webp",
+        "webp_size": 23742,
+        "size": 78680
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy.gif",
+        "width": 480,
+        "size": 5136480,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy.gif",
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy.mp4",
+        "frames": 71,
+        "size": 5136480
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100w.mp4",
+        "webp_size": 110190,
+        "mp4_size": 20245,
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100w.gif",
+        "size": 232213,
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200_d.webp",
+        "webp_size": 54510,
+        "size": 252311
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy.gif",
+        "width": 480,
+        "size": 5136480,
+        "frames": 71,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy-downsized-medium.gif",
+        "width": 384,
+        "size": 3172399,
+        "height": 212
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200.gif",
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200.mp4",
+        "webp_size": 672456,
+        "size": 2811119
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100.mp4",
+        "webp_size": 255916,
+        "mp4_size": 44512,
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100.gif",
+        "size": 738154,
+        "webp": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l4q8jMx5nGFpLT9v2/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "l4q8jMx5nGFpLT9v2",
+    "bitly_url": "http://gph.is/2jt8yOd",
+    "get_absolute_url": "/gifs/l4q8jMx5nGFpLT9v2",
+    "update_datetime": "2017-03-29T17:59:24+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:25+00:00",
+    "embed_url": "https://giphy.com/embed/l4q8jMx5nGFpLT9v2",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "exhausted"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "\nsign language\namerican sign language\nexhausted",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/l4q8jMx5nGFpLT9v2",
+    "slug": "l4q8jMx5nGFpLT9v2",
+    "source_image_url": "/tmp/l4q8jMx5nGFpLT9v2.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\nexhausted",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/l4q8jMx5nGFpLT9v2",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "f7e6dee0d62c692d1b4e2e7e065d5a8b",
+    "source_caption": "",
+    "index_id": 32119316,
+    "import_datetime": "2017-01-11T05:09:12+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "cool sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w.mp4",
+        "webp_size": 142646,
+        "mp4_size": 26442,
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w.gif",
+        "size": 556623,
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w_d.gif",
+        "width": 200,
+        "size": 3350619,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w_d.webp",
+        "webp_size": 18666,
+        "size": 79379
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy.gif",
+        "width": 480,
+        "size": 3350619,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy.mp4",
+        "frames": 46,
+        "size": 3350619
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100w.mp4",
+        "webp_size": 63086,
+        "mp4_size": 11183,
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100w.gif",
+        "size": 157289,
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200_d.webp",
+        "webp_size": 41636,
+        "size": 246401
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy.gif",
+        "width": 480,
+        "size": 3350619,
+        "frames": 46,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy.gif",
+        "width": 480,
+        "size": 3350619,
+        "height": 265
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200.gif",
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200.mp4",
+        "webp_size": 317582,
+        "size": 1825018
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100.mp4",
+        "webp_size": 133318,
+        "mp4_size": 22975,
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100.gif",
+        "size": 488620,
+        "webp": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOCzwdRDBZgLwo8/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOCzwdRDBZgLwo8",
+    "bitly_url": "http://gph.is/2jt8n5r",
+    "get_absolute_url": "/gifs/26DOCzwdRDBZgLwo8",
+    "update_datetime": "2017-02-16T14:07:56+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:11+00:00",
+    "embed_url": "https://giphy.com/embed/26DOCzwdRDBZgLwo8",
+    "tags": ["cool", "sign language", "asl", "deaf", "american sign language"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOCzwdRDBZgLwo8",
+    "slug": "26DOCzwdRDBZgLwo8",
+    "source_image_url": "/tmp/26DOCzwdRDBZgLwo8.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ncool\nsign language\ndeaf\nasl\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOCzwdRDBZgLwo8",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "5db51b5c72b4e013a929abc93d81f3dd",
+    "source_caption": "",
+    "index_id": 32119311,
+    "import_datetime": "2017-01-11T05:09:00+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "sign language asl deaf american sign language fascinated",
+    "is_takedown": false,
+    "source_post_url": "",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w.mp4",
+        "webp_size": 169354,
+        "mp4_size": 34518,
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w.gif",
+        "size": 577343,
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w.webp",
+        "height": 110
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w_d.gif",
+        "width": 200,
+        "size": 3556200,
+        "height": 110
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200_s.gif",
+        "width": 200,
+        "height": 362
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w_d.gif",
+        "height": 110,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w_d.webp",
+        "webp_size": 21056,
+        "size": 77214
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy.gif",
+        "width": 480,
+        "size": 3556200,
+        "height": 265
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy.gif",
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy.webp",
+        "height": 265,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy.mp4",
+        "frames": 49,
+        "size": 3556200
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy_s.gif",
+        "width": 480,
+        "height": 265
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100w.mp4",
+        "webp_size": 69690,
+        "mp4_size": 13902,
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100w.gif",
+        "size": 164428,
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100w.webp",
+        "height": 55
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200_d.gif",
+        "height": 200,
+        "width": 362,
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200_d.webp",
+        "webp_size": 47730,
+        "size": 247809
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy.gif",
+        "width": 480,
+        "size": 3556200,
+        "frames": 49,
+        "height": 265
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100w_s.gif",
+        "width": 100,
+        "height": 55
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy.gif",
+        "width": 480,
+        "size": 3556200,
+        "height": 265
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200.gif",
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200.webp",
+        "height": 200,
+        "width": 362,
+        "mp4": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200.mp4",
+        "webp_size": 382100,
+        "size": 1931562
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/200w_s.gif",
+        "width": 200,
+        "height": 110
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100.mp4",
+        "webp_size": 153518,
+        "mp4_size": 30644,
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100.gif",
+        "size": 509122,
+        "webp": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26DOPUAVcO6UEFcgU/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "26DOPUAVcO6UEFcgU",
+    "bitly_url": "http://gph.is/2j6i3pL",
+    "get_absolute_url": "/gifs/26DOPUAVcO6UEFcgU",
+    "update_datetime": "2017-02-16T14:07:38+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "",
+    "create_datetime": "2017-01-11T05:09:03+00:00",
+    "embed_url": "https://giphy.com/embed/26DOPUAVcO6UEFcgU",
+    "tags": ["sign language", "asl", "deaf", "american sign language", "fascinated"],
+    "source_tld": "",
+    "edit_status": "",
+    "source_domain": "",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "is_preserve_size": false,
+    "url_path": "/gifs/26DOPUAVcO6UEFcgU",
+    "slug": "26DOPUAVcO6UEFcgU",
+    "source_image_url": "/tmp/26DOPUAVcO6UEFcgU.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign language\ndeaf\nasl\namerican sign language\nfascinated",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/26DOPUAVcO6UEFcgU",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "06f40f7d5c220e4ad62896cb7e696831",
+    "source_caption": "",
+    "index_id": 32119304,
+    "import_datetime": "2017-01-11T05:08:55+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert weekend sign language asl deaf",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w.mp4",
+        "webp_size": 157356,
+        "mp4_size": 24695,
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w.gif",
+        "size": 512509,
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w_d.gif",
+        "width": 200,
+        "size": 3181625,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w_d.webp",
+        "webp_size": 20068,
+        "size": 74970
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy.gif",
+        "width": 480,
+        "size": 3181625,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy.gif",
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy.mp4",
+        "frames": 47,
+        "size": 3181625
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100w.mp4",
+        "webp_size": 63728,
+        "mp4_size": 10153,
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100w.gif",
+        "size": 142411,
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200_d.webp",
+        "webp_size": 44956,
+        "size": 235294
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy.gif",
+        "width": 480,
+        "size": 3181625,
+        "frames": 47,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy.gif",
+        "width": 480,
+        "size": 3181625,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200.gif",
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200.mp4",
+        "webp_size": 355070,
+        "size": 1722860
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100.mp4",
+        "webp_size": 137948,
+        "mp4_size": 22034,
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100.gif",
+        "size": 442043,
+        "webp": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l0MYxci0TrPAtdI4M/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "l0MYxci0TrPAtdI4M",
+    "bitly_url": "http://gph.is/2ixfqd7",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-l0MYxci0TrPAtdI4M",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:31:09+00:00",
+    "embed_url": "https://giphy.com/embed/l0MYxci0TrPAtdI4M",
+    "tags": ["weekend", "sign language", "sign with robert", "asl", "deaf", "american sign language"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": "2017-03-17T22:00:01+00:00",
+    "featured_tags_string": "\nweekend\nsign language",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media1.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-l0MYxci0TrPAtdI4M",
+    "slug": "signwithrobert-sign-with-robert-l0MYxci0TrPAtdI4M",
+    "source_image_url": "/tmp/l0MYxci0TrPAtdI4M.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ngiphytrending\nweekend\nsign language\nsign with robert\nasl\ndeaf\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-l0MYxci0TrPAtdI4M",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "6fd978170825f38ae2ef7aac98c0fdef",
+    "source_caption": "",
+    "index_id": 32033987,
+    "import_datetime": "2017-01-09T21:31:00+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w.mp4",
+        "webp_size": 187074,
+        "mp4_size": 28861,
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w.gif",
+        "size": 658489,
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w_d.gif",
+        "width": 200,
+        "size": 4114374,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w_d.webp",
+        "webp_size": 18802,
+        "size": 76400
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy.gif",
+        "width": 480,
+        "size": 4114374,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy.gif",
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy.mp4",
+        "frames": 59,
+        "size": 4114374
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100w.mp4",
+        "webp_size": 76598,
+        "mp4_size": 11519,
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100w.gif",
+        "size": 182054,
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200_d.webp",
+        "webp_size": 42732,
+        "size": 241139
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy.gif",
+        "width": 480,
+        "size": 4114374,
+        "frames": 59,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy.gif",
+        "width": 480,
+        "size": 4114374,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200.gif",
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200.mp4",
+        "webp_size": 425474,
+        "size": 2236577
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100.mp4",
+        "webp_size": 162396,
+        "mp4_size": 26866,
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100.gif",
+        "size": 568437,
+        "webp": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/3o7TKvgIfMH39EP5IY/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "3o7TKvgIfMH39EP5IY",
+    "bitly_url": "http://gph.is/2jwebin",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-3o7TKvgIfMH39EP5IY",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:54+00:00",
+    "embed_url": "https://giphy.com/embed/3o7TKvgIfMH39EP5IY",
+    "tags": ["sign language", "sign with robert", "asl", "deaf", "american sign language", "saturday"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "\nsaturday",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media2.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-3o7TKvgIfMH39EP5IY",
+    "slug": "signwithrobert-sign-with-robert-3o7TKvgIfMH39EP5IY",
+    "source_image_url": "/tmp/3o7TKvgIfMH39EP5IY.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nsign with robert\nsaturday\nsign language\ndeaf\nasl\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-3o7TKvgIfMH39EP5IY",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "d5c9ef19c51eb77c5dd7ca02c7a5bc2f",
+    "source_caption": "",
+    "index_id": 32033967,
+    "import_datetime": "2017-01-09T21:30:42+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w.mp4",
+        "webp_size": 136836,
+        "mp4_size": 28531,
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w.gif",
+        "size": 478745,
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w_d.gif",
+        "width": 200,
+        "size": 2919573,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w_d.webp",
+        "webp_size": 19048,
+        "size": 75324
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy.gif",
+        "width": 480,
+        "size": 2919573,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy.gif",
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy.mp4",
+        "frames": 42,
+        "size": 2919573
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100w.mp4",
+        "webp_size": 55284,
+        "mp4_size": 11188,
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100w.gif",
+        "size": 134554,
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200_d.webp",
+        "webp_size": 43744,
+        "size": 235468
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy.gif",
+        "width": 480,
+        "size": 2919573,
+        "frames": 42,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy.gif",
+        "width": 480,
+        "size": 2919573,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200.gif",
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200.mp4",
+        "webp_size": 313458,
+        "size": 1577021
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100.mp4",
+        "webp_size": 121968,
+        "mp4_size": 25573,
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100.gif",
+        "size": 410173,
+        "webp": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/3o7TKDBfXnksZ52Ya4/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "3o7TKDBfXnksZ52Ya4",
+    "bitly_url": "http://gph.is/2ix8lJG",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-3o7TKDBfXnksZ52Ya4",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:46+00:00",
+    "embed_url": "https://giphy.com/embed/3o7TKDBfXnksZ52Ya4",
+    "tags": ["sign language", "sign with robert", "asl", "deaf", "american sign language", "sunday"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": "2017-02-26T22:15:01+00:00",
+    "featured_tags_string": "\nsign language\nasl\nsunday",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media1.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-3o7TKDBfXnksZ52Ya4",
+    "slug": "signwithrobert-sign-with-robert-3o7TKDBfXnksZ52Ya4",
+    "source_image_url": "/tmp/3o7TKDBfXnksZ52Ya4.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ngiphytrending\nsign language\nsign with robert\ndeaf\nasl\namerican sign language\nsunday",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-3o7TKDBfXnksZ52Ya4",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "844e68d081ad3042c47fd04d7cd34f88",
+    "source_caption": "",
+    "index_id": 32033963,
+    "import_datetime": "2017-01-09T21:30:37+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert friday sign language viernes asl",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w.mp4",
+        "webp_size": 120378,
+        "mp4_size": 20878,
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w.gif",
+        "size": 448720,
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w_d.gif",
+        "width": 200,
+        "size": 2747209,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w_d.webp",
+        "webp_size": 18472,
+        "size": 77512
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy.gif",
+        "width": 480,
+        "size": 2747209,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy.gif",
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy.mp4",
+        "frames": 39,
+        "size": 2747209
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100w.mp4",
+        "webp_size": 49692,
+        "mp4_size": 8607,
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100w.gif",
+        "size": 124170,
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200_d.webp",
+        "webp_size": 41846,
+        "size": 244432
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy.gif",
+        "width": 480,
+        "size": 2747209,
+        "frames": 39,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy.gif",
+        "width": 480,
+        "size": 2747209,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200.gif",
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200.mp4",
+        "webp_size": 270912,
+        "size": 1499118
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100.mp4",
+        "webp_size": 105824,
+        "mp4_size": 19522,
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100.gif",
+        "size": 385375,
+        "webp": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/3o7TKSmtRzKFHFg7F6/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "3o7TKSmtRzKFHFg7F6",
+    "bitly_url": "http://gph.is/2jw90z4",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-3o7TKSmtRzKFHFg7F6",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:41+00:00",
+    "embed_url": "https://giphy.com/embed/3o7TKSmtRzKFHFg7F6",
+    "tags": ["friday", "sign language", "sign with robert", "viernes", "asl", "deaf", "american sign language"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": "2017-03-03T18:30:54+00:00",
+    "featured_tags_string": "\nfriday\nviernes",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media2.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-3o7TKSmtRzKFHFg7F6",
+    "slug": "signwithrobert-sign-with-robert-3o7TKSmtRzKFHFg7F6",
+    "source_image_url": "/tmp/3o7TKSmtRzKFHFg7F6.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ngiphytrending\nfriday\nsign language\nsign with robert\nviernes\nasl\ndeaf\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-3o7TKSmtRzKFHFg7F6",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "a80c67b4b0efe4a4f47c2285e476ad3d",
+    "source_caption": "",
+    "index_id": 32033958,
+    "import_datetime": "2017-01-09T21:30:33+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w.mp4",
+        "webp_size": 142974,
+        "mp4_size": 21654,
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w.gif",
+        "size": 491676,
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w_d.gif",
+        "width": 200,
+        "size": 3048149,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w_d.webp",
+        "webp_size": 19124,
+        "size": 75623
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy.gif",
+        "width": 480,
+        "size": 3048149,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy.gif",
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy.mp4",
+        "frames": 44,
+        "size": 3048149
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100w.mp4",
+        "webp_size": 58166,
+        "mp4_size": 8655,
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100w.gif",
+        "size": 135724,
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200_d.webp",
+        "webp_size": 42764,
+        "size": 241817
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy.gif",
+        "width": 480,
+        "size": 3048149,
+        "frames": 44,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy.gif",
+        "width": 480,
+        "size": 3048149,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200.gif",
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200.mp4",
+        "webp_size": 322678,
+        "size": 1668683
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100.mp4",
+        "webp_size": 124048,
+        "mp4_size": 19952,
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100.gif",
+        "size": 425214,
+        "webp": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/3o7TKvdJr4YQ4NM73q/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "3o7TKvdJr4YQ4NM73q",
+    "bitly_url": "http://gph.is/2jwewBH",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-3o7TKvdJr4YQ4NM73q",
+    "update_datetime": "2017-08-10T14:46:42+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:31+00:00",
+    "embed_url": "https://giphy.com/embed/3o7TKvdJr4YQ4NM73q",
+    "tags": ["sign language", "sign with robert", "asl", "deaf", "american sign language", "thursday"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": "2017-08-10T14:46:42+00:00",
+    "featured_tags_string": "\nthursday",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media3.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-3o7TKvdJr4YQ4NM73q",
+    "slug": "signwithrobert-sign-with-robert-3o7TKvdJr4YQ4NM73q",
+    "source_image_url": "/tmp/3o7TKvdJr4YQ4NM73q.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ngiphytrending\nsign language\nsign with robert\nasl\ndeaf\namerican sign language\nthursday",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-3o7TKvdJr4YQ4NM73q",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "56b8e4e1954220f3f57468d6aa373639",
+    "source_caption": "",
+    "index_id": 32033943,
+    "import_datetime": "2017-01-09T21:30:23+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w.mp4",
+        "webp_size": 167362,
+        "mp4_size": 23760,
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w.gif",
+        "size": 546028,
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w_d.gif",
+        "width": 200,
+        "size": 3399319,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w_d.webp",
+        "webp_size": 19822,
+        "size": 76723
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy.gif",
+        "width": 480,
+        "size": 3399319,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy.gif",
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy.mp4",
+        "frames": 49,
+        "size": 3399319
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100w.mp4",
+        "webp_size": 68540,
+        "mp4_size": 9512,
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100w.gif",
+        "size": 150286,
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200_d.webp",
+        "webp_size": 44712,
+        "size": 243516
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy.gif",
+        "width": 480,
+        "size": 3399319,
+        "frames": 49,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy.gif",
+        "width": 480,
+        "size": 3399319,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200.gif",
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200.mp4",
+        "webp_size": 377644,
+        "size": 1861260
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100.mp4",
+        "webp_size": 146072,
+        "mp4_size": 22187,
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100.gif",
+        "size": 472125,
+        "webp": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/3o7TKErvQN3MOi00DK/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "3o7TKErvQN3MOi00DK",
+    "bitly_url": "http://gph.is/2ixeENk",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-3o7TKErvQN3MOi00DK",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:27+00:00",
+    "embed_url": "https://giphy.com/embed/3o7TKErvQN3MOi00DK",
+    "tags": ["sign language", "sign with robert", "asl", "deaf", "american sign language", "wednesday", "swr", "humpday", "hump day"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": "2017-03-01T22:09:02+00:00",
+    "featured_tags_string": "\nsign language\nwednesday\nhumpday\nhump day",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media3.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-3o7TKErvQN3MOi00DK",
+    "slug": "signwithrobert-sign-with-robert-3o7TKErvQN3MOi00DK",
+    "source_image_url": "/tmp/3o7TKErvQN3MOi00DK.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ngiphytrending\nsign language\nsign with robert\nasl\ndeaf\namerican sign language\nwednesday\nswr\nhumpday\nhump day",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-3o7TKErvQN3MOi00DK",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "ac90a9758b0f021ecdb1b417bc3c4cb8",
+    "source_caption": "",
+    "index_id": 32033940,
+    "import_datetime": "2017-01-09T21:30:17+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert sign language asl deaf american sign language",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w.mp4",
+        "webp_size": 179118,
+        "mp4_size": 27169,
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w.gif",
+        "size": 663277,
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w_d.gif",
+        "width": 200,
+        "size": 4154086,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w_d.webp",
+        "webp_size": 18368,
+        "size": 76669
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy.gif",
+        "width": 480,
+        "size": 4154086,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy.gif",
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy.mp4",
+        "frames": 59,
+        "size": 4154086
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100w.mp4",
+        "webp_size": 75512,
+        "mp4_size": 10659,
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100w.gif",
+        "size": 183761,
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200_d.webp",
+        "webp_size": 41806,
+        "size": 242590
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy.gif",
+        "width": 480,
+        "size": 4154086,
+        "frames": 59,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy.gif",
+        "width": 480,
+        "size": 4154086,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200.gif",
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200.mp4",
+        "webp_size": 410120,
+        "size": 2243798
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100.mp4",
+        "webp_size": 157938,
+        "mp4_size": 25262,
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100.gif",
+        "size": 569553,
+        "webp": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/l0MYDvEZYFpwmozFC/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "l0MYDvEZYFpwmozFC",
+    "bitly_url": "http://gph.is/2jwiAC8",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-l0MYDvEZYFpwmozFC",
+    "update_datetime": "2017-08-15T12:39:42+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:23+00:00",
+    "embed_url": "https://giphy.com/embed/l0MYDvEZYFpwmozFC",
+    "tags": ["sign language", "sign with robert", "asl", "deaf", "american sign language", "tuesday"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": "2017-08-15T12:39:42+00:00",
+    "featured_tags_string": "\ntuesday",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media2.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-l0MYDvEZYFpwmozFC",
+    "slug": "signwithrobert-sign-with-robert-l0MYDvEZYFpwmozFC",
+    "source_image_url": "/tmp/l0MYDvEZYFpwmozFC.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\ngiphytrending\nsign language\nsign with robert\nasl\ndeaf\namerican sign language\ntuesday",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-l0MYDvEZYFpwmozFC",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "848b00f77841f7ef13f3105c345c3fd5",
+    "source_caption": "",
+    "index_id": 32033937,
+    "import_datetime": "2017-01-09T21:30:12+00:00",
+    "is_realtime": false
+  }, {
+    "rating": "g",
+    "is_featured": false,
+    "alt_tag": "Sign with Robert monday sign language asl deaf",
+    "is_takedown": false,
+    "source_post_url": "http://www.signwithrobert.com/",
+    "is_nsfw": false,
+    "images": {
+      "fixed_width": {
+        "width": 200,
+        "mp4": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w.mp4",
+        "webp_size": 136408,
+        "mp4_size": 17528,
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w.gif",
+        "size": 366209,
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w.webp",
+        "height": 111
+      },
+      "downsized": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w_d.gif",
+        "width": 200,
+        "size": 2303929,
+        "height": 111
+      },
+      "fixed_height_still": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200_s.gif",
+        "width": 200,
+        "height": 361
+      },
+      "fixed_width_downsampled": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w_d.gif",
+        "height": 111,
+        "width": 200,
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w_d.webp",
+        "webp_size": 23892,
+        "size": 75886
+      },
+      "fixed_height_small_still": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100_s.gif",
+        "width": 181,
+        "height": 100
+      },
+      "downsized_large": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy.gif",
+        "width": 480,
+        "size": 2303929,
+        "height": 266
+      },
+      "original": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy.gif",
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy.webp",
+        "height": 266,
+        "width": 480,
+        "mp4": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy.mp4",
+        "frames": 34,
+        "size": 2303929
+      },
+      "original_still": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy_s.gif",
+        "width": 480,
+        "height": 266
+      },
+      "looping": {
+        "mp4": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy-loop.mp4"
+      },
+      "fixed_width_small": {
+        "width": 100,
+        "mp4": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100w.mp4",
+        "webp_size": 52764,
+        "mp4_size": 7268,
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100w.gif",
+        "size": 99651,
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100w.webp",
+        "height": 56
+      },
+      "fixed_height_downsampled": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200_d.gif",
+        "height": 200,
+        "width": 361,
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200_d.webp",
+        "webp_size": 58248,
+        "size": 245884
+      },
+      "source": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy.gif",
+        "width": 480,
+        "size": 2303929,
+        "frames": 34,
+        "height": 266
+      },
+      "fixed_width_small_still": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100w_s.gif",
+        "width": 100,
+        "height": 56
+      },
+      "downsized_medium": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy.gif",
+        "width": 480,
+        "size": 2303929,
+        "height": 266
+      },
+      "fixed_height": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200.gif",
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200.webp",
+        "height": 200,
+        "width": 361,
+        "mp4": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200.mp4",
+        "webp_size": 328200,
+        "size": 1274037
+      },
+      "fixed_width_still": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/200w_s.gif",
+        "width": 200,
+        "height": 111
+      },
+      "fixed_height_small": {
+        "width": 181,
+        "mp4": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100.mp4",
+        "webp_size": 118126,
+        "mp4_size": 16218,
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100.gif",
+        "size": 319144,
+        "webp": "https://media.giphy.com/media/26hitcjVxonXbZhn2/100.webp",
+        "height": 100
+      },
+      "downsized_still": {
+        "url": "https://media.giphy.com/media/26hitcjVxonXbZhn2/giphy-downsized_s.gif",
+        "width": 250,
+        "height": 138
+      }
+    },
+    "is_hidden": false,
+    "id": "26hitcjVxonXbZhn2",
+    "bitly_url": "http://gph.is/2j1ektJ",
+    "get_absolute_url": "/gifs/signwithrobert-sign-with-robert-26hitcjVxonXbZhn2",
+    "update_datetime": "2017-05-25T01:18:08+00:00",
+    "search_datetime": null,
+    "type": "gif",
+    "source_body": "",
+    "username": "signwithrobert",
+    "create_datetime": "2017-01-09T21:30:15+00:00",
+    "embed_url": "https://giphy.com/embed/26hitcjVxonXbZhn2",
+    "tags": ["monday", "sign language", "sign with robert", "asl", "deaf", "american sign language"],
+    "source_tld": "www.signwithrobert.com",
+    "edit_status": "",
+    "source_domain": "http://www.signwithrobert.com",
+    "trending_datetime": null,
+    "featured_tags_string": "",
+    "featured_tags": [],
+    "is_indexable": false,
+    "is_removed": false,
+    "user": {
+      "username": "signwithrobert",
+      "instagram_url": null,
+      "display_name": "Sign with Robert",
+      "name": "Sign with Robert",
+      "banner_url": "https://media1.giphy.com/channel_assets/sign-robert/SivdJWuP6bLG.png",
+      "twitter_url": null,
+      "website_display_url": "www.signwithrobert.com",
+      "facebook_url": null,
+      "twitter": "",
+      "suppress_chrome": false,
+      "avatar_url": "https://media.giphy.com/channel_assets/sign-robert/g4Od3TWg872c.jpg",
+      "website_url": "http://www.signwithrobert.com/",
+      "attribution_display_name": "Sign with Robert",
+      "is_public": true,
+      "tumblr_url": null,
+      "profile_path": "/signwithrobert",
+      "id": 2258210,
+      "profile_url": "https://giphy.com/signwithrobert",
+      "description": ""
+    },
+    "is_preserve_size": false,
+    "url_path": "/gifs/signwithrobert-sign-with-robert-26hitcjVxonXbZhn2",
+    "slug": "signwithrobert-sign-with-robert-26hitcjVxonXbZhn2",
+    "source_image_url": "/tmp/26hitcjVxonXbZhn2.gif",
+    "is_caption": false,
+    "tags_string": "\ngiphyupload\nmonday\nsign with robert\nsign language\ndeaf\nasl\namerican sign language",
+    "is_anonymous": false,
+    "is_community": false,
+    "url": "https://giphy.com/gifs/signwithrobert-sign-with-robert-26hitcjVxonXbZhn2",
+    "source_content_url": "",
+    "is_sticker": false,
+    "search_id": "567acd3e4388a0f9da60b7a616180f15",
+    "source_caption": "",
+    "index_id": 32033933,
+    "import_datetime": "2017-01-09T21:30:07+00:00",
+    "is_realtime": false
+  }]
+}

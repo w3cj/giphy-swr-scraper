@@ -1,0 +1,16 @@
+{
+  "name": "giphy-swr-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadChannels.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "list-directories": "^1.0.0",
+    "monk": "^6.0.3",
+    "node-fetch": "^1.7.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT"
+}
